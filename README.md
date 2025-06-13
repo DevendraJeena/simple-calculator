@@ -17,10 +17,6 @@ This is a responsive and interactive **calculator web app** built using **HTML**
 * **CSS3** – styling and responsive design
 * **JavaScript (Vanilla)** – calculator logic, evaluation, and history tracking
 
-### 📸 Preview
-
-![Calculator Preview](preview.png) <!-- (optional: you can add a screenshot named `preview.png`) -->
-
 ### 🚀 Getting Started
 
 To run this project locally:
